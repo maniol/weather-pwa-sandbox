@@ -1,2 +1,3 @@
 #test change
 here we will have a conflict
+a new line
